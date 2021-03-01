@@ -46,3 +46,7 @@ table {
   cursor: pointer;
   border-radius: 5px;
 }
+article {
+  height: 500px;
+  background-color: tomato;
+}
